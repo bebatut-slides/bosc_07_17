@@ -217,7 +217,7 @@ Note: Build on top of what John explained before
   <img class="fragment" src="images/contributions_with_hackathon.png" style="position:absolute;top:0;left:0;" />
 </div>
 
-<p class="fragment">And 2 successful hackathons!
+<p class="fragment">And 3 successful hackathons!
 </p>
 
 ----
