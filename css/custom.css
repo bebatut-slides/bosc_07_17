@@ -62,15 +62,17 @@ img{
     font-size: 0.7em;
 }
 
-html.dim-background .slide-background {
+html.dim-background .slide-background.present {
     opacity: 0.6 !important;
+    background-color: rgb(255, 255, 255);
 }
 
 
-html.dim-background-2 .slide-background {
+html.dim-background-2 .slide-background.present {
     opacity: 0.9 !important;
+    background-color: rgb(255, 255, 255);
 }
 
 .text-right {
-  text-align: right;
+    text-align: right;
 }
