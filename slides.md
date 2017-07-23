@@ -42,6 +42,7 @@ BOSC <br>July 2017
 Graphs of [Brazas et al, 2017](http://biorxiv.org/content/early/2017/02/27/098996)
 
 ---
+<!-- .slide: data-background="images/DSC_0630.jpg" data-state="dim-background" -->
 # Galaxy<br/>a great solution !
 
 ----
@@ -148,7 +149,7 @@ We refine the content and think about the reviews
 
 - Online
     
-    [http://galaxyproject.github.io/training-material/](http://galaxyproject.github.io/training-material/)
+    [http://training.galaxyproject.org](http://galaxyproject.github.io/training-material/)
 
 - Technical support
     - Self-training boxes with Galaxy Docker flavor
@@ -205,4 +206,14 @@ Gitter: [Galaxy-Training-Network/Lobby](https://gitter.im/Galaxy-Training-Networ
 
 <br/>
 <h2 class="fragment" data-fragment-index="2">THANKS to all of them!</h2>
+
+---
+
+## Thank you!
+
+[Poster A166](http://research.bebatut.fr/eccb_2017_training_poster/)
+<br/>
+![](images/poster.png) <!-- .element height="50%" width="50%" border="10px"-->
+
+
 
